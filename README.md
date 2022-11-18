@@ -1,6 +1,6 @@
 # shellby - Simple Shell :shell:
 
-A simple UNIX command interpreter written as part of the low-level programming and algorithm track at Holberton School.
+A simple UNIX command interpreter written as part of the low-level programming and algorithm track at ALX Africa and done by a peer Learning.
 
 ## Description :speech_balloon:
 
